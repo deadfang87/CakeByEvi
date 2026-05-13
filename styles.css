@@ -1,0 +1,15 @@
+body {
+    background-color:#fcf5f2;
+}
+
+h1{
+    color: #d68d8b;
+}
+
+.centered{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
